@@ -1,0 +1,13 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#emailValidationContainer {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
